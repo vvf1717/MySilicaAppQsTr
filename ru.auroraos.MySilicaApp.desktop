@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.MySilicaApp
+Exec=/usr/bin/ru.auroraos.MySilicaApp
+Name=MySilicaApp
+Name[ru]=MySilica
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=MySilicaApp
+ExecDBus=/usr/bin/ru.auroraos.MySilicaApp
